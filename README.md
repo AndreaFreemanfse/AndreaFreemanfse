@@ -1,10 +1,8 @@
 <div align="center">
 
-# ✦ ANDREA FREEMAN ✦
+## ✦ ANDREA FREEMAN ✦
 
 ### SOFTWARE ENGINEER · COLLABORATOR · BUILDER
-
-<!-- > _Building things that are useful, thoughtful, and occasionally a little fun._ -->
 
 <br>
 
