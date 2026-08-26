@@ -4,8 +4,6 @@
 
 ### SOFTWARE ENGINEER · COLLABORATOR · BUILDER
 
-<br>
-
 <!-- > _Building things that are useful, thoughtful, and occasionally a little fun._ -->
 
 <br>
