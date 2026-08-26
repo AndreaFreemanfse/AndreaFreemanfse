@@ -65,8 +65,6 @@ Nowdays I'm building with code, but my goals remain the same.
 </tr>
 </table>
 
----
-
 ## ✦ TECH STACKS
 
 <table id="stack">
@@ -114,8 +112,6 @@ Nowdays I'm building with code, but my goals remain the same.
 </td>
 </tr>
 </table>
-
----
 
 <div align="center" id="connect">
 
