@@ -1,45 +1,28 @@
-<div align="center">
-
-# ✦ ANDREA FREEMAN ✦
-
-### `SOFTWARE ENGINEER` · `COLLABORATOR` · `BUILDER`
-
-<br>
-
-[ ABOUT ](#-about)　·　[ STACK ](#-tech-stack)　·　[ NOW ](#-currently)　·　[ CONNECT ](#-connect)
-
-<br>
-</div>
-
----
-
-## ✦ ABOUT
-
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="66%" valign="top">
 
 ### Hello, you can call me Andy 👋🏾
 
-I'm a Software Engineer with a background in EdTech and a curiosity mindset. I enjoy building technology that helps people and solves unique problems. I love a new challenge, and the skills derived from learning something new.
+I'm a Software Engineer with a background in EdTech. I bring a curiosity mindset to my projects and enjoy building technology that helps people.
 
 <details>
 <summary><b>👩🏾‍💻 My Journey</b></summary>
 
 <br>
 
-Before getting into tech, I spent several years working in the Chicago nonprofit space, supporting programs that provided financial assistance to youth affected by gun violence.
+Before getting into tech, I spent several years working in the Chicago nonprofit space. There I worked on programs that provided financial assistance to youth affected by gun violence.
 
 I later transitioned into EdTech, where I found an opportunity to combine my passion for helping people with my interest in technology.
 
-As a programmer, I championed software that made college courseware more accessible and affordable for students, while also helping optimize the platform to meet accessibility requirements.
+As a programmer, I championed software that made college courseware more accessible and affordable for students. In addition I contributed efforts to optimize the platform, and improve user accessibility.
 
 During that time, I contributed code that helped generate an additional $33K in monthly revenue while making course materials more affordable for students.
 
-I also maintained a legacy **Ember.js codebase supporting 75% of the company's customer base**.
+Additional efforts include maintaing a legacy **Ember.js codebase which supported 75% of the company's customer base**.
 
-Nowadays I'm building with code, but my goals remain the same.
+Nowadays, my code stack may change, but my goals remain the same.
 
 **I still like building things that help people.**
 
@@ -49,9 +32,8 @@ Nowadays I'm building with code, but my goals remain the same.
 
 <td width="42%" valign="top">
 
-### ` CURRENTLY`
-
-<br>
+<div id="currently" color="#A5E6BA">
+<h3 align ="center">Currently</h3>
 
 🌱 **LEARNING**
 
@@ -80,6 +62,7 @@ Nowadays I'm building with code, but my goals remain the same.
 
 </tr>
 </table>
+</div>
 
 ---
 
