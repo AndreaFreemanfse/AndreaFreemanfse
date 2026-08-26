@@ -1,33 +1,34 @@
 <div align="center">
 
-## ✦ ANDREA FREEMAN ✦
+# ✦ ANDREA FREEMAN ✦
 
-### SOFTWARE ENGINEER · COLLABORATOR · BUILDER
+### `SOFTWARE ENGINEER` · `COLLABORATOR` · `BUILDER`
 
 <br>
 
-[ ABOUT ](#about) · [ STACKS ](#stack) · [ CONNECT ](#connect)
+[ ABOUT ](#-about)　·　[ STACK ](#-tech-stack)　·　[ NOW ](#-currently)　·　[ CONNECT ](#-connect)
 
+<br>
 </div>
 
 ---
 
 ## ✦ ABOUT
 
-<div id="about">
 <table>
 <tr>
-<td width="55%" valign="top">
 
-### Hello, you can call me Andy 👋
+<td width="58%" valign="top">
 
-<!-- Add your introduction here -->
+### Hello, you can call me Andy 👋🏾
 
-I'm a Software Engineer with a background in EdTech and a curiosity mindset. I enjoy building technology that helps people and solves unique problems. I love a new challenge, and the skills derived from learning something new. 
+I'm a Software Engineer with a background in EdTech and a curiosity mindset. I enjoy building technology that helps people and solves unique problems. I love a new challenge, and the skills derived from learning something new.
 
 <details>
-<summary> 👩🏾‍💻 My Journey </summary>
-  
+<summary><b>👩🏾‍💻 My Journey</b></summary>
+
+<br>
+
 Before getting into tech, I spent several years working in the Chicago nonprofit space, supporting programs that provided financial assistance to youth affected by gun violence.
 
 I later transitioned into EdTech, where I found an opportunity to combine my passion for helping people with my interest in technology.
@@ -36,87 +37,183 @@ As a programmer, I championed software that made college courseware more accessi
 
 During that time, I contributed code that helped generate an additional $33K in monthly revenue while making course materials more affordable for students.
 
-Nowdays I'm building with code, but my goals remain the same.
+I also maintained a legacy **Ember.js codebase supporting 75% of the company's customer base**.
+
+Nowadays I'm building with code, but my goals remain the same.
 
 **I still like building things that help people.**
 
 </details>
 
 </td>
-</div>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### currently
+### ` CURRENTLY`
 
-🌱 Learning  
-→ AI and Data Science Apprenticeship 
+<br>
 
-🔨 Building  
-→ <a href = "https://github.com/AndreaFreemanfse/write-right-fe" > A New Way to Learn Languages</a>
+🌱 **LEARNING**
 
-📚 Exploring  
-→ Personal LLMs and Servers
+`AI + DATA SCIENCE`
 
-🎨 Creating  
-→ Retro Gaming Cabinet
+<br>
+
+🔨 **BUILDING**
+
+[`New Take on Language Learning` ](https://github.com/AndreaFreemanfse/write-right-fe)
+
+<br>
+
+📚 **DIVING INTO**
+
+`Personal LLMs`
+`Local Servers`
+
+<br>
+
+🎨 **CREATING**
+
+`Retro Gaming Cabinet`
 
 </td>
+
 </tr>
 </table>
 
-## ✦ TECH STACKS
+---
 
-<table id="stack">
+## ✦ `01` · TECH STACK
+
+<table>
 <tr>
-<td valign="top" width="33%">
 
-### languages
+<td width="33%" valign="top">
 
-`JavaScript`  
+### `LANGUAGES`
+
+<br>
+
+`JavaScript`
+
 `Python`
-`HTML`  
+
+`HTML`
+
 `CSS`
+
 `Ruby`
+
 `Java`
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### frameworks
+### `FRAMEWORKS`
 
-`React`  
-`Vite`  
+<br>
+
+`React`
+
+`Vite`
+
 `FastAPI`
+
 `Ember`
+
 `Ruby on Rails`
+
 `Pandas`
+
 `Seaborn`
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### tools
+### `TOOLS`
 
-`Git`  
-`GitHub`  
-`PostgreSQL`  
+<br>
+
+`Git`
+
+`GitHub`
+
+`PostgreSQL`
+
 `Supabase`
+
 `Vercel`
+
 `Godot`
+
 `Jira`
+
 `Confluence`
 
 </td>
+
 </tr>
 </table>
 
-<div align="center" id="connect">
+---
 
-## ✦ CONNECT
+## ✦ `02` · WHAT I'M BUILDING
 
-<a href="mailto:afreeman.fse@gmail.com">[ Email]</a> · <a href='https://www.linkedin.com/in/andrea-freeman-43b233204/'>[ LinkedIn ]</a> · <a href='https://medium.com/@afreeman.fse'>[ Blog ]</a> · <a href='https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/'>[ Ethical Usage 🤖 ]</a>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ✎ WriteRight
+
+**AI-powered language learning**
+
+A language journal designed to turn writing mistakes into learning opportunities.
+
+**React** · **Vite** · **FastAPI** · **Python** · **PostgreSQL** · **AI**
+
+<br>
+
+→ [`View Project`](https://github.com/AndreaFreemanfse/write-right-fe)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ RepScore
+
+**Game representation analysis**
+
+A project exploring how games represent different identities and experiences.
+
+**JavaScript** · **Chrome Extensions** · **Web Analysis**
+
+<br>
+
+→ `currently building`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+
+## ✦ `05` · CONNECT
+
+<div align="center">
+
+[ Email ](mailto:afreeman.fse@gmail.com) · 
+[ LinkedIn ](https://www.linkedin.com/in/andrea-freeman-43b233204/) · [ Blog ](https://medium.com/@afreeman.fse) · [ Ethical AI ](https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/)
+
+<br>
+
+### Thanks for stopping by.
+
+<br>
 
 </div>
