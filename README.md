@@ -19,7 +19,7 @@ Nowadays, my code stack may change, but my goal remains the same.
 
 <hr>
 
-<h4 align="center">✦ HIGHLIGHTS ✦</h4>
+<h4 align="center">HIGHLIGHTS</h4>
 
 <table align="center">
 <tr>
