@@ -27,174 +27,41 @@ Nowadays, my code stack may change, but my goals remain the same.
 **I still like building things that help people.**
 
 </details>
-
-</td>
-
-<td width="42%" valign="top">
-
-<div id="currently" color="#A5E6BA">
-<h3 align ="center">Currently</h3>
-
-🌱 **LEARNING**
-
-`AI + DATA SCIENCE`
-
 <br>
 
-🔨 **BUILDING**
-
-[`New Take on Language Learning` ](https://github.com/AndreaFreemanfse/write-right-fe)
-
+<div id="snapshot-div" align="center">
+<hr>
 <br>
 
-📚 **DIVING INTO**
+<!-- <table>
+<tr>
+<th>Currently Building </th>
+<td> A New Way to Learn Languages</td>
 
-`Personal LLMs`
-`Local Servers`
-
-<br>
-
-🎨 **CREATING**
-
-`Retro Gaming Cabinet`
-
-</td>
+<th>What I'm Up To</th>
+<td>AI and Data Science Apprenticeship</td>
 
 </tr>
-</table>
+
+</table>  -->
+
+</div>
+</br>
+
+<h3>My Stacks</h3>
+<div id="stacks-div">
 </div>
 
----
-
-## ✦ `01` · TECH STACK
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### `LANGUAGES`
-
 <br>
-
-`JavaScript`
-
-`Python`
-
-`HTML`
-
-`CSS`
-
-`Ruby`
-
-`Java`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `FRAMEWORKS`
-
+<hr>
 <br>
-
-`React`
-
-`Vite`
-
-`FastAPI`
-
-`Ember`
-
-`Ruby on Rails`
-
-`Pandas`
-
-`Seaborn`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `TOOLS`
-
-<br>
-
-`Git`
-
-`GitHub`
-
-`PostgreSQL`
-
-`Supabase`
-
-`Vercel`
-
-`Godot`
-
-`Jira`
-
-`Confluence`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ✦ `02` · WHAT I'M BUILDING
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ✎ WriteRight
-
-**AI-powered language learning**
-
-A language journal designed to turn writing mistakes into learning opportunities.
-
-**React** · **Vite** · **FastAPI** · **Python** · **PostgreSQL** · **AI**
-
-<br>
-
-→ [`View Project`](https://github.com/AndreaFreemanfse/write-right-fe)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ RepScore
-
-**Game representation analysis**
-
-A project exploring how games represent different identities and experiences.
-
-**JavaScript** · **Chrome Extensions** · **Web Analysis**
-
-<br>
-
-→ `currently building`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ✦ `05` · CONNECT
-
 <div align="center">
 
-[ Email ](mailto:afreeman.fse@gmail.com) ·
-[ LinkedIn ](https://www.linkedin.com/in/andrea-freeman-43b233204/) · [ Blog ](https://medium.com/@afreeman.fse) · [ Ethical AI ](https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/)
+[ ✉️ EMAIL ](mailto:afreeman.fse@gmail.com) ·
+[ 🤝 LINKEDIN ](https://www.linkedin.com/in/andrea-freeman-43b233204/) · [ 👩🏾‍💻 BLOG ](https://medium.com/@afreeman.fse) · [ ETHICS 🤖](https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/)
 
 <br>
 
-### Thanks for stopping by.
-
-<br>
+<p>Thanks for stopping by :)</p>
 
 </div>
