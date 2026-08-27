@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-freeman-43b233204/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afreeman.fse@gmail.com) [![email](https://img.shields.io/badge/Blog-%23F7DF1E?logo=blog&logoColor=%23F7DF1E)](https://medium.com/@afreeman.fse)
 
-I'm a Software Engineer with a background in EdTech. I bring a curious mindset to my projects and am energized by new challenges. I enjoy building technology that helps people or solves interesting problem. Let's connect!
+I'm a Software Engineer with a background in EdTech. I bring a curious mindset to my projects and am energized by new challenges. I enjoy building technology that helps people or solves interesting problems. Let's connect!
 
 <details>
 <summary><b>👩🏾‍💻 My Journey</b></summary>
@@ -19,45 +19,46 @@ Nowadays, my code stack may change, but my goal remains the same.
 
 <hr>
 
-<h4 align="center">HIGHLIGHTS</h4>
+<h4 align="center">✦ HIGHLIGHTS ✦</h4>
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
-<h4>📈 Impact</h4>
-
-Contributed software improvements that helped drive an additional **$33K in monthly revenue** while making course materials more affordable for students.
+<b>📈 Impact</b><br>
+Helped drive an additional <b>$33K/month</b> in revenue while making course materials more affordable.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h4>🔧 Engineering</h4>
-
-Maintained and modernized a **legacy Ember.js codebase** supporting approximately **75% of the company's customer base**.
+<b>🔧 Engineering</b><br>
+Maintained a legacy <b>Ember.js</b> codebase supporting <b>75%</b> of the customer base.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-<h4>♿ Accessibility</h4>
-
-Helped build accessible and inclusive courseware, improving the learning experience for students.
+<b>♿ Accessibility</b><br>
+Helped build <b>accessible, inclusive courseware</b> for students.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h4>🚀 Product</h4>
-
-Turned **user needs and accessibility goals** into practical improvements across the platform.
+<b>🚀 Product</b><br>
+Turned <b>user needs</b> and accessibility goals into practical platform improvements.
 
 </td>
+
 </tr>
 </table>
+
 
 <br>
 
