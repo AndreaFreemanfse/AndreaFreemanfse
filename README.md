@@ -5,7 +5,7 @@
 
 ### Hello, you can call me Andy 👋🏾
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrea-freeman-43b233204/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afreeman.fse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrea-freeman-43b233204/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afreeman.fse@gmail.com) [![email](https://img.shields.io/badge/Blog-%23F7DF1E?logo=blog&logoColor=%23F7DF1E)](mailto:afreeman.fse@gmail.com)
 
 I'm a Software Engineer with a background in EdTech. I bring a curiosity mindset to my projects and am energized by a new challenges. I enjoy building technology that helps people or solves unique problems. Toggle below to learn more.
 
@@ -34,7 +34,7 @@ Nowadays, my code stack may change, but my goals remain the same.
 </details>
 <br>
 
-<div id="snapshot-div" align="center">
+<!-- <div id="snapshot-div" align="center">
 <hr>
 <br>
 
@@ -50,8 +50,8 @@ Nowadays, my code stack may change, but my goals remain the same.
 
 </table>
 
-</div>
-</br>
+</div> -->
+
 
 <h3 >💻 My Stacks</h3>
 
