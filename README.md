@@ -16,16 +16,16 @@ Before tech, I spent several years working in the Chicago nonprofit space. There
 Nowadays, my code stack may change, but my goals remain the same.
 **I still like building things that help people.**
 <hr>
+
 <h4>Highlights</h3>
 
+📈 | Contributed code that helped generate an additional $33K in monthly revenue while making course materials more affordable for students.
 
-📈 Contributed code that helped generate an additional $33K in monthly revenue while making course materials more affordable for students.
+🔧 | Maintained a legacy Ember.js codebase that supported 75% of the company's customer base.
 
-👥👥 Maintained a legacy Ember.js codebase that supported 75% of the company's customer base.
+📚 | Championed software that made college courseware more accessible and affordable.
 
-📚 Championed software that made college courseware more accessible and affordable.
-
-🚀 Optimized platforms to improve user accessibility.
+🚀 | Optimized platforms to improve user accessibility.
 
 </details>
 <!-- <br> -->
